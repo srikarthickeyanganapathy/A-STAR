@@ -1,4 +1,4 @@
-<h1>Ex 4 : Implement A* search algorithm for a Graph</h1> 
+<h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
 <h3>Name: SRI KARTHICKEYAN GANAPATHY      </h3>
 <h3>Register Number:  212222240102        </h3>
 <H3>Aim:</H3>
